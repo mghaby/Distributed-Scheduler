@@ -17,7 +17,7 @@ The purpose of this repository is utlimately so showcase the implementation of t
 
 * This repo can be cloned using:
 ```
-git clone *repo link here*
+git clone https://github.com/mghaby/DistributedScheduler.git
 ```
 
 ### Executing program
